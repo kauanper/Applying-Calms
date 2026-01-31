@@ -115,7 +115,7 @@ Para garantir que as melhorias implementadas sejam sustentáveis, é fundamental
 	- Padronização do fluxo de entrega, reduzindo variações e dependência de ações manuais.
 
   2. Segunda Maneira (Ampliar Feedback)
-	  ### Mecanismos de feedback propostos:
+	  Mecanismos de feedback propostos:
 	 - Feedback automático dos testes durante o pipeline de CI/CD.
 	 - Monitoramento contínuo dos sistemas após o deploy.
 	 - Análise periódica de métricas como taxa de falhas, incidentes e MTTR.
